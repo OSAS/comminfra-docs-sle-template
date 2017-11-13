@@ -12,7 +12,7 @@ The purpose of these template files when used in a project are to:
 ## How to use this repo:
 
 _*FIXME - steps are likely very wrong ...*_
-# Fork the template repo to a new repo in the form of github.com/osas/comminfra-docs-sle-projectname/.
-# Modify the templates to match your project, working with the program manager for the CommInfra team.
-# Commit to the git repo and track.
-# Somehow maintain a relationship with the templates so you can benefit from additional files and improvements to the template. _*FIXME*_
+1. Fork the template repo to a new repo in the form of github.com/osas/comminfra-docs-sle-projectname/.
+1. Modify the templates to match your project, working with the program manager for the CommInfra team.
+1. Commit to the git repo and track.
+1. Somehow maintain a relationship with the templates so you can benefit from additional files and improvements to the template. _*FIXME*_

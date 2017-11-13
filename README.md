@@ -1,4 +1,5 @@
-= Service Level Expectations (SLE) template files
+
+# Service Level Expectations (SLE) template files
 
 The files in this repo are the canonical files needed to document a working relationship between the Red Hat Open Source and Standards team's Community Infrastructure (CommInfra) operations group ... and ... any upstream the OSAS CommInfra team works with.
 
@@ -8,7 +9,7 @@ The purpose of these template files when used in a project are to:
 * Document established expectations following discussions between project members.
 * Provide a set of best practice project relationship documents that are tied to a maintained upstream of canonical source material for project SLE content.
 
-How to use this repo:
+## How to use this repo:
 
 _*FIXME - steps are likely very wrong ...*_
 # Fork the template repo to a new repo in the form of github.com/osas/comminfra-docs-sle-projectname/.
